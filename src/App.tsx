@@ -39,7 +39,8 @@ const backgroundMusic = "/layama-piruna-kanchana-anuradhi-dinesh-gamage.mp3";
 
 // Web app URL from deploying code.gs on the Maleesha & Minidu spreadsheet
 // (Deploy → New deployment → Web app → Anyone). Ends in /exec.
-const GOOGLE_SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const GOOGLE_SCRIPT_URL =
+  "https://script.google.com/macros/s/AKfycbxiN9jnZUp9HiB-bUO5fWYMJdb1HqIDz5OC0xQnoETAF2bkiH0GSYVciWHoE4as0dvx/exec";
 
 const MAX_GUESTS = 10;
 
